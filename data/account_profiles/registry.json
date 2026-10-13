@@ -1,0 +1,11 @@
+[
+  {
+    "account_id": "x_test_bot_01",
+    "platform": "x",
+    "user_data_dir": "/Users/pramod/restricted/scrape/data/account_profiles/x_test_bot_01/chromium_profile",
+    "proxy_url": "http://user:pass@127.0.0.1:8000",
+    "storage_state_file": "/Users/pramod/restricted/scrape/data/account_profiles/x_test_bot_01/x_test_bot_01_storage_state.json",
+    "health": "active",
+    "consecutive_errors": 0
+  }
+]
