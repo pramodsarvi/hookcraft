@@ -11,6 +11,8 @@ An enterprise-grade, agentic digital marketing flywheel that continuously monito
 
 ## 🏗️ Master Flywheel Architecture
 
+> 📖 *For the complete collection of visual flowcharts, state machines, and distributed swarm diagrams, see [DIAGRAMS.md](DIAGRAMS.md).*
+
 ```mermaid
 flowchart TD
     subgraph ListenLoop ["Phase 1 & 2: The Listen Loop (Ingestion & Gating)"]
